@@ -1,0 +1,28 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables / secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets
+datasets/
+
+# Trained models
+*.joblib
+*.pkl
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
